@@ -1,0 +1,3 @@
+condition,n,exact_answer_substring_match_rate,mean_latency_s,interpretation
+baseline_no_context,10,0.00,2.833,Pilot only; manual review needed
+context_assisted,10,0.60,2.131,Pilot only; manual review needed

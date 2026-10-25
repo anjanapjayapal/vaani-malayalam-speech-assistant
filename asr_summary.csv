@@ -1,0 +1,4 @@
+Model,N,WER,CER,Mean inference (s),Median inference (s),Overall RTF
+sajilck/whisper-small-malayalam,100,58.20%,12.67%,2.18,1.77,0.481
+sajilck/whisper-small-malayalam-v2,100,23.40%,3.75%,2.208,1.682,0.486
+"Whisper v2, beam=5",100,58.20%,12.672%,2.128,not recorded,0.469
